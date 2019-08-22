@@ -1,5 +1,5 @@
-# angular6-material-imports
-All angular 6 material inports
+# angular-material-imports
+All angular material inports
 
 
 ```ts
